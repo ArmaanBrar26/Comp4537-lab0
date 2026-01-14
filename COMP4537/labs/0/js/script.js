@@ -1,4 +1,4 @@
-import { MESSAGES } from "../../../../lang/messages/en/user.js";
+import { MESSAGES } from "../lang/messages/en/user.js";
 
 /**
  * Represents a clickable button in the game.
